@@ -6,4 +6,4 @@ Original build status: [![Build Status](https://jenkins.badbones69.com/job/Block
 
 Original Jenkins: https://jenkins.badbones69.com/job/Block-Particles/
 
-Updated version: https://github.com/Futurixel/Block-Particles/releases
+Updated version: https://github.com/itsmemac/Block-Particles/releases
