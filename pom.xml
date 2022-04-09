@@ -10,7 +10,6 @@
     <version>1.12.1</version>
     <modules>
         <module>v1_13_R1_Up</module>
-        <module>v1_12_R1_Down</module>
         <module>api</module>
         <module>plugin</module>
     </modules>
