@@ -1,7 +1,7 @@
 # Block Particles
 ## Source Code for Block Particles
 
-### Forked from Futurixel/Block-Particles to support 1.13 and above
+### Forked from Crazy-Crew/Block-Particles & Futurixel/Block-Particles to support 1.13 and above
 
 ### Dropped support for version 1.12 and below
 
