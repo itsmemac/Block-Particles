@@ -1,9 +1,10 @@
 # Block Particles
-Source Code for Block Particles
+## Source Code for Block Particles
 
-Original build status: [![Build Status](https://jenkins.badbones69.com/job/Block-Particles/badge/icon)](https://jenkins.badbones69.com/job/Block-Particles/)
+### Forked from Futurixel/Block-Particles to support 1.13 and above
 
+### Dropped support for version 1.12 and below
 
-Original Jenkins: https://jenkins.badbones69.com/job/Block-Particles/
+### Current supported versions : 1.13 to 1.19
 
-Updated version: https://github.com/itsmemac/Block-Particles/releases
+## Downloads: https://github.com/itsmemac/Block-Particles/releases
